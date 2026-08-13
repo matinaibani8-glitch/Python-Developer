@@ -1,0 +1,38 @@
+[
+    {
+        "Roll": 101,
+        "Name": "Matin",
+        "Age": 19,
+        "Course": "BCA",
+        "Marks": 98,
+        "City": "Kodinar",
+        "Phone": 9510695745
+    },
+    {
+        "Roll": 98,
+        "Name": "Samad",
+        "Age": 20,
+        "Course": "BBA",
+        "Marks": 67,
+        "City": "Una",
+        "Phone": 9228048135
+    },
+    {
+        "Roll": 97,
+        "Name": "Zed",
+        "Age": 21,
+        "Course": "CA",
+        "Marks": 89,
+        "City": "Bombay",
+        "Phone": 9228128904
+    },
+    {
+        "Roll": 78,
+        "Name": "Mahir",
+        "Age": 22,
+        "Course": "BBA",
+        "Marks": 56,
+        "City": "Sher",
+        "Phone": 9313177020
+    }
+]
